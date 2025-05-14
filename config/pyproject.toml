@@ -1,5 +1,5 @@
 [project]
-name = "pyfunc2-config"
+name = "pyfunc3-config"
 version = "0.1.0"
 description = "Configuration utilities for the month project"
 authors = [

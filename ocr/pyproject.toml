@@ -1,5 +1,5 @@
 [project]
-name = "pyfunc2-ocr"
+name = "pyfunc3-ocr"
 version = "0.1.0"
 description = "OCR utilities for the month project"
 authors = [

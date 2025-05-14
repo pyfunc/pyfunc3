@@ -1,5 +1,5 @@
 [project]
-name = "pyfunc2-email"
+name = "pyfunc3-email"
 version = "0.1.0"
 description = "Email handling utilities for the month project"
 authors = [

@@ -1,5 +1,5 @@
 [project]
-name = "pyfunc2-file"
+name = "pyfunc3-file"
 version = "0.1.0"
 description = "File operations utilities for the month project"
 authors = [
