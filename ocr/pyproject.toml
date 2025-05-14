@@ -1,0 +1,19 @@
+[project]
+name = "pyfunc2-ocr"
+version = "0.1.0"
+description = "OCR utilities for the month project"
+authors = [
+    {name = "Softreck Team"}
+]
+readme = "README.md"
+requires-python = ">=3.8,<4.0"
+dependencies = [
+    "PyPDF2>=2.0.0",
+    "python-dateutil>=2.8.2",
+    "datefinder>=0.7.1"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
