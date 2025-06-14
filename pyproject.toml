@@ -14,3 +14,22 @@ dependencies = [
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.packages]]
+include = "pyfunc3"
+
+[[tool.poetry.packages]]
+include = "file"
+from = "."
+
+[[tool.poetry.packages]]
+include = "config"
+from = "."
+
+[[tool.poetry.packages]]
+include = "email"
+from = "."
+
+[[tool.poetry.packages]]
+include = "ocr"
+from = "."
